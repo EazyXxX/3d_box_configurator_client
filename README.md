@@ -2,6 +2,9 @@
 
 An app hosted on Netlify that calculates triangulation for 3D boxes based on provided dimensions
 
+This app is hosted on netlify with netlify serverless functions as app's backend
+https://3dboxconfig.netlify.app/
+
 ## How to run this app?
 
 ### Prerequisites
